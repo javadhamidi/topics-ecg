@@ -23,7 +23,7 @@ def get_q_points(lead, r_peaks):
     for i in r_peaks:
         q_points.append(
             i - np.argmin(np.flip(lead[i-50:i]))
-      
+        )
     return q_points
 
 

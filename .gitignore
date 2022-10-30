@@ -1,0 +1,8 @@
+ptbxl/
+ptbdb/
+st-petersburg/
+
+logs/
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
